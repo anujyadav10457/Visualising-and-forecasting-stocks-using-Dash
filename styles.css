@@ -1,0 +1,22 @@
+.container {
+    display: flex;
+}
+
+.nav {
+    width: 25vw;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    background-color: rgb(5, 107, 107);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+    font-family: "Roboto", sans-serif;
+    background-color: rgb(5, 107, 107);
+ }
+    
+    
